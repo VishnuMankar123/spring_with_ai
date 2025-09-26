@@ -1,0 +1,22 @@
+
+download the ollama : https://ollama.com/
+client is installed with ollama : ollama run codellama
+
+check ollama version : ollama -v
+
+how to check ollama is running or not default port is :
+
+spring.ai.ollama.base-url=http://localhost:11434
+======================================================================
+
+
+
+Api :
+
+curl --location 'http://127.0.0.1:8080/chat?q=how%20are%20you%3F'
+
+curl --location --request GET 'http://localhost:8081/parse-resume-ai' \
+--form 'file=@"/path/to/file"'
+
+curl --location 'http://localhost:8081/parse-resume-ai' \
+--form 'file=@"/C:/Users/Pratiti_Users/Documents/Project/text Resume.txt"'
