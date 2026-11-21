@@ -6,10 +6,18 @@
       <list>
         <option value="$PROJECT_DIR$/spring-ai/pom.xml" />
         <option value="$PROJECT_DIR$/spring-ollama/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_ai_chatmemory/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_ai_chatmemory_with_jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_ai_rag_app/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_ai_etl_app/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_ai_speech_to_text/pom.xml" />
+        <option value="$PROJECT_DIR$/mcp-ollama-client/pom.xml" />
+        <option value="$PROJECT_DIR$/mysql-mcp-server/pom.xml" />
+        <option value="$PROJECT_DIR$/mysql-mcp-client/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" project-jdk-name="21" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
